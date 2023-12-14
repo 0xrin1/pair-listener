@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "nodenext",
+        "target": "es2018",
+        // "module": "es2020",
+        "module": "nodenext",
+        "sourceMap": true,
+        "allowJs": true,
+        "esModuleInterop": true,
+        "outDir": "build",
+        "resolveJsonModule": true
+    },
+    "include": [
+        "./src"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}  
