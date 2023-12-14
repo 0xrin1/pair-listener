@@ -4,6 +4,7 @@
   "main": "index.js",
   "author": "0xrin1 <0xrin1@protonmail.com>",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "start": "node build/app.js",
     "build": "tsc",
